@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-**InaldoSilva/inaldosilva** from 🇧🇷  
+**InaldoSilva/InaldoSilva** from 🇧🇷  
 
 About me
 
