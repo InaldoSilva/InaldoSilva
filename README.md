@@ -6,10 +6,9 @@
 About me
 
 - 👨‍🎓 Data Scientist and Web Developer 💻
-- 🔭 I’m currently working as IT Tech Support at ANIMA Ecossistem and Freelancer Developer 
-- 🌱 I’m currently learning Java and Javascript technologies and its frameworks...
-- 👯 I’m looking to collaborate on front end and backend projects.
-- 🤔 I’m looking for help with ... Eeverything about web development. 😅
+- 🔭 Actually working as IT Analist at INSPIRALI PÓS-MEDICINA and Freelancer Developer 
+- 🌱 Java and Javascript technologies and its frameworks...
+- 👯 collaborate on front end and backend projects.
 - 💬 Ask me about ... Technologies and Music 💻 🎶
 - 📫 How to reach me: httpe://linkedin.com/in/inaldo-fbjr 
 - 😄 FUN: Music and Technology ...
